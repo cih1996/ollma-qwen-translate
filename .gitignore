@@ -5,3 +5,6 @@ Translate/fy-linux
 Translate/fy-macos
 *.log
 .DS_Store
+
+media/video/
+.trae/

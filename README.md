@@ -2,6 +2,8 @@
 
 A smart translation CLI tool based on Ollama, which automatically detects Chinese and English and translates between them.
 
+![Demo](media/gifs/example.png)
+
 ## Features
 
 - 🤖 Automatically detects input language (Chinese/English)
